@@ -2,7 +2,7 @@
 Modularity Density Maximization algorithms and heuristics
 
 
-**Algorithms and heuristics related in paper "A ground truth contest between modularity maximization and modularity density maximization" (https://rdcu.be/b4p9n) **
+Algorithms and heuristics related in paper "A ground truth contest between modularity maximization and modularity density maximization" (https://rdcu.be/b4p9n)
 
 
 
